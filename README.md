@@ -1,0 +1,3 @@
+# springboot_shiro
+springbootz整合shiro
+实现shiro的身份验证和资源授权
